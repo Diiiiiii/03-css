@@ -20,7 +20,7 @@ Selektor po klasi
     color:red;
 }
 
-/* Bitan redosljed kod psudoelemenata kojim ih navodimo u css*/
+/* Bitan redosljed kod pseudoelemenata kojim ih navodimo u css*/
 a:hover {
     color:white;
 }
